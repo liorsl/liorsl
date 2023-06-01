@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/liorsl/liorsl/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/liorsl/liorsl/output/snake.svg#gh-dark-mode-only" alt="Snake animation" />
 
 ###
 
